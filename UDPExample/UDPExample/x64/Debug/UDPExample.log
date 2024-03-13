@@ -1,0 +1,5 @@
+﻿  UDPExample.cpp
+C:\Users\Yushk_bh37\source\repos\UDPExample\UDPExample\UDPExample.cpp(108,22): warning C4267: '+=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Yushk_bh37\source\repos\UDPExample\UDPExample\UDPExample.cpp(109,22): warning C4267: '+=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Yushk_bh37\source\repos\UDPExample\UDPExample\UDPExample.cpp(115,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  UDPExample.vcxproj -> C:\Users\Yushk_bh37\source\repos\UDPExample\x64\Debug\UDPExample.exe
